@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "Two-module architecture of ribosome-associated quality control in human brain"
+type: software
+authors:
+  - family-names: "Harbert"
+    given-names: "Drake H."
+    orcid: "https://orcid.org/0009-0007-7740-3616"
+    affiliation: "Inner Architecture LLC, Canton, OH 44721, United States"
+    email: "drake@innerarchitecturellc.com"
+repository-code: "https://github.com/innerarchitecturellc/rqc-two-module"
+url: "https://doi.org/10.5281/zenodo.18616697"
+license: MIT
+version: "1.0.0"
+date-released: "2026-02-15"
+keywords:
+  - ribosome-associated quality control
+  - co-expression network
+  - PELO
+  - LTN1
+  - NEMF
+  - human brain
+  - GTEx
+  - translational surveillance
+  - proteostasis
+  - hippocampus
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Harbert"
+      given-names: "Drake H."
+      orcid: "https://orcid.org/0009-0007-7740-3616"
+  title: "Two-module architecture of ribosome-associated quality control in human brain: divergent co-expression networks of PELO, LTN1, and NEMF"
+  year: 2026
+  journal: "BMC Genomics"
+  doi: "10.5281/zenodo.18616697"
